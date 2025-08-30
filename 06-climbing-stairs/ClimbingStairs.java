@@ -3,7 +3,7 @@ public class ClimbingStairs {
 
 	public static void main(String[] args) {
 		Integer resultado1 = climbingStairs(2);
-		Integer resultado1 = climbingStairs(3);
+		Integer resultado2 = climbingStairs(3);
 		System.out.println(resultado1);
 		System.out.println(resultado2);
 
